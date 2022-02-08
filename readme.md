@@ -103,3 +103,10 @@ https://github.com/kris-liu/Sharding-DB
 https://songjunhao.github.io/2019/08/12/SpringBoot%E5%88%86%E5%BA%93%E5%A4%84%E7%90%86-%E4%BA%8C-%E4%BA%8B%E5%8A%A1%E6%94%AF%E6%8C%81/
 http://wuwenliang.net/2019/03/25/%E8%B7%9F%E6%88%91%E5%AD%A6shardingjdbc%E4%B9%8B%E5%88%86%E5%B8%83%E5%BC%8F%E4%B8%BB%E9%94%AE%E5%8F%8A%E5%85%B6%E8%87%AA%E5%AE%9A%E4%B9%89/
 
+
+如何阅读epub：
+epub电子书阅读器
+epub/mobi 电子书阅读神器Calibre
+Koodo Reader：一个跨平台的电子书阅读器
+书单百度网盘链接：https://pan.baidu.com/s/1eAEzdll6pOYOvo278kUDHQ
+提取码：1111
