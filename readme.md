@@ -110,3 +110,43 @@ epub/mobi 电子书阅读神器Calibre
 Koodo Reader：一个跨平台的电子书阅读器
 书单百度网盘链接：https://pan.baidu.com/s/1eAEzdll6pOYOvo278kUDHQ
 提取码：1111
+
+
+Java 全栈知识体系
+[Java 全栈知识体系](https://www.pdai.tech/md/java/advanced/java-advanced-spi.html)
+[Java 全栈知识体系](https://pdai.tech/md/develop/ut/dev-ut-x-junit5.html)
+[永洪一站式大数据分析平台](https://www.yonghongtech.com/)
+[有哪些开源的BI工具？](https://www.zhihu.com/question/266752015)
+[Superset，基于web的开源BI工具，github三万star](https://zhuanlan.zhihu.com/p/162013514)
+[2021开源BI软件排行榜](https://www.finebi.com/2020/openbi-2)
+[Apache CarbonData Documentation](https://carbondata.apache.org/documentation.html)
+[关于阿里云](https://wohugb.gitbooks.io/aliyun/content/)
+[大数据工程师学习路径](https://edu.huaweicloud.com/programs)
+[springboot集成minio完全版（避坑必看）](https://www.shouxicto.com/article/1417.html)
+[基于Spring+MyBatis实现一个分库分表、读写分离功能的工具库](http://blogxin.cn/2019/06/01/sharding-db/)
+[从零开始写一个分布式事务框架(九)-RoadMap](http://blogxin.cn/2020/05/31/Distributed-Transaction-9/)
+[我说分布式之分库分表](http://wuwenliang.net/2019/03/11/%E6%88%91%E8%AF%B4%E5%88%86%E5%B8%83%E5%BC%8F%E4%B9%8B%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8/)
+[snowalker-shardingjdbc-demo](https://github.com/TaXueWWL/snowalker-shardingjdbc-demo)
+
+https://ext.dcloud.net.cn/plugin?id=6916
+https://github.com/macrozheng/mall-swarm
+http://www.macrozheng.com/#/README
+https://github.com/macrozheng/mall-learning
+https://github.com/kris-liu/Sharding-DB
+https://github.com/pig-mesh/pig
+https://www.cnblogs.com/qdhxhz/p/11651163.html
+https://github.com/yudiandemingzi/spring-boot-sharding-sphere
+https://www.cnblogs.com/qdhxhz/p/11688371.html
+https://github.com/xkcoding/spring-boot-demo
+https://github.com/TaXueWWL/snowalker-shardingjdbc-demo
+https://github.com/xkcoding/spring-boot-demo/tree/master/demo-https
+http://wuwenliang.net/2019/03/26/%E8%B7%9F%E6%88%91%E5%AD%A6shardingjdbc%E4%B9%8B%E8%87%AA%E5%AE%9A%E4%B9%89%E5%88%86%E5%BA%93%E5%88%86%E8%A1%A8%E7%AD%96%E7%95%A5-%E5%A4%8D%E5%90%88%E5%88%86%E7%89%87%E7%AE%97%E6%B3%95%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%9E%E7%8E%B0/
+https://github.com/ulisesbocchio/jasypt-spring-boot
+https://github.com/mybatis-book/book
+http://c.biancheng.net/design_pattern/
+http://c.biancheng.net/view/1320.html
+https://www.runoob.com/design-pattern/strategy-pattern.html
+https://github.com/MrXujiang/h5-Dooring
+http://h5.dooring.cn/doc/zh/guide/
+https://juejin.cn/post/7056118707759775781?utm_source=gold_browser_extension
+https://github.com/lw1243925457/JAVA-000/blob/main/code/shardingsphere/shardingdb/src/main/java/com/shardingsphere/shardingdb/config/CustomDbSharding.java
